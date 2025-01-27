@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+=======
+I wanna be good in programming. 
+Do you want to join me?
+>>>>>>> new_branch
 
 I wanna be good in programming and so let me work on it!
