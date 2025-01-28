@@ -14,4 +14,4 @@ January 27-31
  - lists, tuples, sets
  - control flow
  - functions
- 
+ - exercises  
