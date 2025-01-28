@@ -14,4 +14,13 @@ January 27-31
  - lists, tuples, sets
  - control flow
  - functions
- - exercises  
+ - exercises 
+ 
+### Wednesday: 09:30 - 13:00; 14:00 - 17:30
+
+  - exercises discussion
+  - standard library
+  - sympy
+  - numpy
+  - matplotlib
+
