@@ -31,7 +31,7 @@ class MyMatrix:
         return result
 
     def __mul__(self, other):
-        result = result = MyMatrix(self.dim)
+        result = MyMatrix(self.dim)
         result.matrix=np.matmul(self.matrix, other.matrix)
         return result
       
